@@ -1,0 +1,26 @@
+// THIS FILE IS A TUTORIAL FILE, IT LETS YOU KNOW WHAT ITEM TYPES THERE ARE
+Leather_Pants
+Chest
+Hammer
+Crossbow
+Shield
+Staff
+Wand
+Cloth_Chest
+Torch
+Helmet
+Bracelet
+Sword
+Charm
+Cloth_Boots
+Necklace
+Leather_Helmet
+Pants
+Bow
+Leather_Boots
+Cloth_Helmet
+Axe
+Cloth_Pants
+Ring
+Boots
+Leather_Chest

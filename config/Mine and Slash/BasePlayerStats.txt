@@ -1,0 +1,24 @@
+{
+  "BASE_PLAYER_STATS": {
+    "Critical Hit": 1.0,
+    "Health": 100.0,
+    "Armor": 10.0,
+    "spell_damage": 3.0,
+    "Critical Damage": 0.0,
+    "magic_shield_regen": 2.0,
+    "Physical Damage": 3.0,
+    "Health Regen": 2.0
+  },
+  "PLAYER_STATS_THAT_SCALE_TO_LEVEL": {
+    "Mana": 50.0,
+    "Energy": 125.0,
+    "Mana Regen": 3.0,
+    "Health": 5.0,
+    "Armor": 5.0,
+    "Energy Regen": 7.0,
+    "spell_damage": 0.25,
+    "magic_shield_regen": 1.0,
+    "Physical Damage": 0.3,
+    "Health Regen": 1.0
+  }
+}

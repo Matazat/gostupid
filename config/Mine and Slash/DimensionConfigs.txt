@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "ConfigType": "dimensions_config",
+  "defaultconfig": {
+    "USE_SPECIFIC_LVL_1_POSITION": false,
+    "SPECIFIC_LVL_1_POSITION": {
+      "x": 0,
+      "z": 0,
+      "y": 0
+    },
+    "MOB_LEVEL_PER_DISTANCE": 125,
+    "MOB_LEVEL_ONE_AREA": 50,
+    "MAXIMUM_MOB_LEVEL": 100,
+    "MINIMUM_MOB_LEVEL": 1,
+    "LEVEL_FOR_MOBS_TO_BE_LEGENDARY": 10,
+    "LEVEL_FOR_MOBS_TO_BE_MYTHICAL": 20,
+    "SCALE_MOB_LEVEL_TO_NEAREST_PLAYER": false,
+    "DROPS_UNIQUE_ITEMS": false,
+    "MAP_TIER": 0,
+    "DROP_MULTIPLIER": 1.0,
+    "MOB_STRENGTH_MULTIPLIER": 1.0
+  },
+  "dimensionsList": {
+    "minecraft:overworld": {
+      "USE_SPECIFIC_LVL_1_POSITION": false,
+      "SPECIFIC_LVL_1_POSITION": {
+        "x": 0,
+        "z": 0,
+        "y": 0
+      },
+      "MOB_LEVEL_PER_DISTANCE": 125,
+      "MOB_LEVEL_ONE_AREA": 50,
+      "MAXIMUM_MOB_LEVEL": 100,
+      "MINIMUM_MOB_LEVEL": 1,
+      "LEVEL_FOR_MOBS_TO_BE_LEGENDARY": 10,
+      "LEVEL_FOR_MOBS_TO_BE_MYTHICAL": 20,
+      "SCALE_MOB_LEVEL_TO_NEAREST_PLAYER": false,
+      "DROPS_UNIQUE_ITEMS": false,
+      "MAP_TIER": 0,
+      "DROP_MULTIPLIER": 1.0,
+      "MOB_STRENGTH_MULTIPLIER": 1.0
+    },
+    "minecraft:the_nether": {
+      "USE_SPECIFIC_LVL_1_POSITION": false,
+      "SPECIFIC_LVL_1_POSITION": {
+        "x": 0,
+        "z": 0,
+        "y": 0
+      },
+      "MOB_LEVEL_PER_DISTANCE": 75,
+      "MOB_LEVEL_ONE_AREA": 100,
+      "MAXIMUM_MOB_LEVEL": 100,
+      "MINIMUM_MOB_LEVEL": 10,
+      "LEVEL_FOR_MOBS_TO_BE_LEGENDARY": 10,
+      "LEVEL_FOR_MOBS_TO_BE_MYTHICAL": 20,
+      "SCALE_MOB_LEVEL_TO_NEAREST_PLAYER": false,
+      "DROPS_UNIQUE_ITEMS": false,
+      "MAP_TIER": 0,
+      "DROP_MULTIPLIER": 1.0,
+      "MOB_STRENGTH_MULTIPLIER": 1.0
+    },
+    "minecraft:the_end": {
+      "USE_SPECIFIC_LVL_1_POSITION": false,
+      "SPECIFIC_LVL_1_POSITION": {
+        "x": 0,
+        "z": 0,
+        "y": 0
+      },
+      "MOB_LEVEL_PER_DISTANCE": 125,
+      "MOB_LEVEL_ONE_AREA": 50,
+      "MAXIMUM_MOB_LEVEL": 100,
+      "MINIMUM_MOB_LEVEL": 25,
+      "LEVEL_FOR_MOBS_TO_BE_LEGENDARY": 10,
+      "LEVEL_FOR_MOBS_TO_BE_MYTHICAL": 20,
+      "SCALE_MOB_LEVEL_TO_NEAREST_PLAYER": false,
+      "DROPS_UNIQUE_ITEMS": false,
+      "MAP_TIER": 0,
+      "DROP_MULTIPLIER": 1.0,
+      "MOB_STRENGTH_MULTIPLIER": 1.0
+    }
+  }
+}

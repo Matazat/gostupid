@@ -1,0 +1,22 @@
+// THIS FILE IS A TUTORIAL FILE, IT LETS YOU KNOW THE GUIDS/IDS OF ALL SPELL PERK EFFECTS
+blazing_inferno
+blizzard
+fireball
+frostball
+geyser
+gorgons_gaze
+heart_of_ice
+instant_heal
+lightning_totem
+magic_missile
+magma_flower
+regenerate
+righteous_fury
+start
+thorn_armor
+thorn_bush
+thunder_dash
+thunder_spear
+thunder_storm
+volcano
+whirlpool
