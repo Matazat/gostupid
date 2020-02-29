@@ -19,7 +19,7 @@
 	xArmPos = 0
 	#Armor HUD orientation
 	#Allowed Values: LEFT, RIGHT, MIDDLE
-	armOr = "MIDDLE"
+	armOr = "LEFT"
 	#Armor HUD position (Y)
 	#Range: 0 ~ 9999
 	yArmPos = 0
